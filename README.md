@@ -4,7 +4,10 @@ Here, i analyze my own data on YouTube. It's the start of the project ! It isn't
 Until my project is not finished, i'll only upload some screens to show my advance.
 
 # *Incoming..*
-## *Visualization with Streamlit, Power BI, and more exploration of the data* 
+### *Visualization with Streamlit, Power BI, and more exploration of the data* 
+
+
+# Some screenshots :
 
 ## Bar charts
 
