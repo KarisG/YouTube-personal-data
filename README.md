@@ -1,6 +1,9 @@
 # YouTube personal data (VISUALIZATION)
 
-Here, i analyze my own data on YouTube. **It's the start of the project** ! It isn't finished yet !
+Here, i analyze my own data on YouTube. 
+
+**It's the start of the project ! It isn't finished yet !**
+
 Until my project is not finished, i'll only upload some screens to show my advance.
 
 ![Dataframe](https://github.com/KarisG/YouTube-personal-data/blob/main/figure5.png)
