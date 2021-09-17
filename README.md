@@ -5,7 +5,7 @@ Until my project is not finished, i'll only upload some screens to show my advan
 
 ![Dataframe](https://github.com/KarisG/YouTube-personal-data/blob/main/figure5.png)
 
-There is 3339 rows and 6 columns in this dataframe. I mask with black squares my researches for my privacy.
+*There is 3339 rows and 6 columns in this dataframe. I mask with black squares my researches for my "privacy".*
 
 
 # *Incoming..*
